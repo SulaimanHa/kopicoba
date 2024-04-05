@@ -1,4 +1,4 @@
-baris_produk.innerHTML = "";
+// baris_produk.innerHTML = "";
 var data_mentah = null;
 console.log("data mentah:", data_mentah)
 function updateSelect() {
